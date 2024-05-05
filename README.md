@@ -9,11 +9,20 @@ The data set comprises information on the following parameters:
 - Income
 - Various expenses
 
+Files: 
+
 The complete data details can be found [here](https://www.kaggle.com/datasets/asaniczka/us-cost-of-living-dataset-3171-counties/data).
 
 Moreover, provided is the [shapefile](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json) used for the geospatial analysis.
 
 Lastly, included is the [time series analysis](https://fred.stlouisfed.org/series/USACPALTT01CTGYM) file.
+
+Tableau Storyboard:
+
+The results of the analysis can be seen [here](https://public.tableau.com/app/profile/suzan.diab/viz/CostofLivinginUnitedStates/CostofLiving).
+Only the steps relevant to the final analysis are displayed.
+More comprehensive findings can be seen in the Jupyter notebooks. 
+
 ## Tools
 For this project, the following python libraries were used:
 - pandas & numpy - for data analysis
