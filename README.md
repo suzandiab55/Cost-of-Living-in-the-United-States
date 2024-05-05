@@ -13,7 +13,7 @@ The complete data details can be found [here](https://www.kaggle.com/datasets/as
 
 Moreover, provided is the [shapefile](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json) used for the geospatial analysis.
 
-Lastly, [here](https://fred.stlouisfed.org/series/USACPALTT01CTGYM) is the file utilized for the time series analysis.
+Lastly, included is the [time series analysis](https://fred.stlouisfed.org/series/USACPALTT01CTGYM) file.
 ## Tools
 For this project, the following python libraries were used:
 - pandas & numpy - for data analysis
