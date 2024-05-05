@@ -20,7 +20,9 @@ Lastly, included is the [time series analysis](https://fred.stlouisfed.org/serie
 Tableau Storyboard:
 
 The results of the analysis can be seen [here](https://public.tableau.com/app/profile/suzan.diab/viz/CostofLivinginUnitedStates/CostofLiving).
+
 Only the steps relevant to the final analysis are displayed.
+
 More comprehensive findings can be seen in the Jupyter notebooks. 
 
 ## Tools
