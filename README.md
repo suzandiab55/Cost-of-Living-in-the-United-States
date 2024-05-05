@@ -17,6 +17,6 @@ Lastly, included is the [time series analysis](https://fred.stlouisfed.org/serie
 ## Tools
 For this project, the following python libraries were used:
 - pandas & numpy - for data analysis
-- seaborn & matplotlib - for data visualization 
+- seaborn, matplotlib, sklearn, and folium - for data visualization 
 ## Code
 The code is available as Jupyter Notebooks and can be found inside the scripts folder.
