@@ -9,9 +9,9 @@ The data set comprises information on the following parameters:
 - Income
 - Various expenses
 
-The full details of the data are available [here](https://www.kaggle.com/datasets/asaniczka/us-cost-of-living-dataset-3171-counties/data).
+The complete data details can be found [here](https://www.kaggle.com/datasets/asaniczka/us-cost-of-living-dataset-3171-counties/data).
 
-In addition, [here](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json) is the shapefile utilized to conduct the geospatial analysis.
+Moreover, provided is the [shapefile](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json) used for the geospatial analysis.
 
 Lastly, [here](https://fred.stlouisfed.org/series/USACPALTT01CTGYM) is the file utilized for the time series analysis.
 ## Tools
