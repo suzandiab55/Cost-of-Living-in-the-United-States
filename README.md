@@ -23,7 +23,15 @@ The results of the analysis can be seen [here](https://public.tableau.com/app/pr
 
 - Only the steps relevant to the final analysis are displayed.
 
-- More comprehensive findings can be seen in the Jupyter notebooks. 
+- More comprehensive findings can be seen in the Jupyter notebooks.
+
+## Research Questions
+1) Do higher housing expenses correlate with increased spending on other items compared to those with lower housing costs?
+2) What states have the highest/lowest overall cost of living?
+3) What counties have the highest/lowest overall cost of living?
+4) How does the number of dependents impact different expenses?
+
+## Data Cleaning
 
 ## Tools
 For this project, the following python libraries were used:
