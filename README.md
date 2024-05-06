@@ -31,7 +31,13 @@ The results of the analysis can be seen [here](https://public.tableau.com/app/pr
 3) What counties have the highest/lowest overall cost of living?
 4) How does the number of dependents impact different expenses?
 
-## Data Cleaning
+## Data Cleaning Procedures
+- Dropped unnecessary columns
+- Changed data types of certain columns
+- Renamed columns for easier viewing
+- Checked for missing values and duplicates
+- Split the family member count column into separate columns
+- Replaced criteria in the parent status column 
 
 ## Tools
 For this project, the following python libraries were used:
